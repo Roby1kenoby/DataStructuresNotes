@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "3c035919c5fc728b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4987bb5f46a79dc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78e65814a269b978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git&GitHub/Comandi Utili Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49268f8974ab7d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "a61b03a1e275b0c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f30a97da1957a8ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5be53231c8cd3373",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2046cc0d1663eb6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3e58c2330962109",
+    "type": "split",
+    "children": [
+      {
+        "id": "e642beb439ff4e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcf9f768e62bbc38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git&GitHub/Comandi Utili Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75635838fe33c093",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git&GitHub/Comandi Utili Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad5ffa0f623faa0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0810d15bebd0eb25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git&GitHub/Comandi Utili Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "78e65814a269b978",
+  "lastOpenFiles": [
+    "Git&GitHub/Comandi Utili Git.md",
+    "Git&GitHub/Info GitHub.md",
+    "Git&GitHub/Comandi VIM.md",
+    "Java/Method Overloading.md",
+    "Java/Varargs.md",
+    "Java/Classi.md",
+    "Java/Scope and Shadowing.md",
+    "Java/Info Base Utili.md",
+    "Java/Loop E Condizioni.md",
+    "Java/Input e Output.md",
+    "Java/Convenzioni.md",
+    "Java/TipiPrimitivi.md",
+    "Java/Compiling.md",
+    "Java/Package.md",
+    "Teoria/Struttura Java.md",
+    "Teoria/Tipi di linguaggi.md",
+    "LeetCode.md",
+    "Teoria/Java.md",
+    "Teoria/Static Vs Dynamic Languages.md",
+    "Teoria/Lowchart e Pseudocode.md",
+    "Teoria",
+    "Imges/GirReset.png",
+    "Imges/GitSquash.png",
+    "Imges/GitStash.png",
+    "Imges/GitLog.png",
+    "Imges/GitCommit.png",
+    "Imges/GitStatus.png",
+    "Pasted image 20240120154939.png",
+    "Imges",
+    "Git&GitHub",
+    "Welcome.md"
+  ]
+}
